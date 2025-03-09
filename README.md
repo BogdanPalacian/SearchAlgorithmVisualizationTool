@@ -31,7 +31,7 @@ The visualization makes it easy to understand how these algorithms traverse a sp
    ```
 3. 🏃‍♂️ **Run the program**:
    ```
-   python path_finding_visualizer.py
+   python AlgorithmVisualization.py
    ```
 
 ## 🎮 How to Use
